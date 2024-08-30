@@ -1,0 +1,1 @@
+This project features an interactive Number Guessing Game developed with HTML, CSS, and JavaScript. Players are tasked with guessing a randomly generated number within a defined range. The game offers feedback on each guess, monitors the number of attempts made, and includes an option to restart the game for another round.
